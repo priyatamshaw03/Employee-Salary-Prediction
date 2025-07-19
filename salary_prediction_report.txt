@@ -1,0 +1,14 @@
+
+        📄 Salary Prediction Report
+        ----------------------------
+        👤 Gender: Male
+        🎂 Age: 30
+        🎓 Qualification: Bachelor's
+        💼 Job Title: Software Engineer
+        ⏳ Experience: 3 years
+
+        💰 Predicted Monthly Salary: ₹ 52,750.00
+
+        Disclaimer:
+        This prediction is based on available data and does not guarantee actual compensation.
+        
